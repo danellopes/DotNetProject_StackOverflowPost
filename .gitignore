@@ -1,0 +1,16 @@
+.vscode/launch.json
+.vscode/tasks.json
+obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+obj/Debug/net7.0/apphost.exe
+obj/Debug/net7.0/C# StackOverflow Post.AssemblyInfo.cs
+obj/Debug/net7.0/C# StackOverflow Post.AssemblyInfoInputs.cache
+obj/Debug/net7.0/C# StackOverflow Post.assets.cache
+obj/Debug/net7.0/C# StackOverflow Post.csproj.CoreCompileInputs.cache
+obj/Debug/net7.0/C# StackOverflow Post.csproj.FileListAbsolute.txt
+obj/Debug/net7.0/C# StackOverflow Post.dll
+obj/Debug/net7.0/C# StackOverflow Post.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/C# StackOverflow Post.genruntimeconfig.cache
+obj/Debug/net7.0/C# StackOverflow Post.GlobalUsings.g.cs
+obj/Debug/net7.0/C# StackOverflow Post.pdb
+obj/Debug/net7.0/ref/C# StackOverflow Post.dll
+obj/Debug/net7.0/refint/C# StackOverflow Post.dll
